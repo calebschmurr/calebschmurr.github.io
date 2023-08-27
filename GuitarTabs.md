@@ -9,7 +9,7 @@ Here are all my guitar tabs:
 {{ page.path }}
 
 Favorites:
-[Old Grimes] {%/Old Grimes.pdf%}
+Old Grimes
 Barrowburn Reel
 Beaumont Rag
 Church Street Blues
