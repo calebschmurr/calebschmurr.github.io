@@ -6,6 +6,8 @@ permalink: /GuitarTabs
 
 Here are all my guitar tabs:
 
+{{ page.path }}
+
 Favorites:
 [Old Grimes] {%/Old Grimes.pdf%}
 Barrowburn Reel
