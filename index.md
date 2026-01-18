@@ -11,6 +11,6 @@ Storing all the miscellaneous things of interest. </br>
 Useful links: </br>
 
 
-[1]: insert-recipe-url-here
-[2]: insert-kettlebell-url-here
-[3]: insert-project-url-here
+[1]: recipes.html
+[2]: kettlebell_workouts.html
+[3]: projects.html
