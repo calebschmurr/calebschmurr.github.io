@@ -147,7 +147,7 @@ Try to get faster and faster
 ---
 
 ### Additional resources:
-[Periodic Table of Kettlebell Exercises][1]
+[Periodic Table of Kettlebell Exercises][1] </br>
 [Kettlebell Workouts.com - free kettlebell workouts][2]
 
 

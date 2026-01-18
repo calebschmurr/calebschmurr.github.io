@@ -1,14 +1,14 @@
 # Caleb's Site
 
-Storing all the miscellaneous things of interest.</br>
+Storing all the miscellaneous things of interest. </br>
 
 ### Pages
 
-[Recipes][1]
-[Kettlebell Workouts][2]
-[Projects][3]
+[Recipes][1] </br>
+[Kettlebell Workouts][2] </br>
+[Projects][3] </br>
 
-Useful links:</br>
+Useful links: </br>
 
 
 [1]: insert-recipe-url-here
