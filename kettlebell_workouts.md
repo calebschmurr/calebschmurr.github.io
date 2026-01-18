@@ -141,6 +141,7 @@ Try to get faster and faster
 
 ### Great video references:
 
+<script>alert('Hello from this markdown page')</script>
 
 ---
 ***

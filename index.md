@@ -4,11 +4,15 @@ Storing all the miscellaneous things of interest. </br>
 
 ### Pages
 
-[Recipes][1] </br>
-[Kettlebell Workouts][2] </br>
-[Projects][3] </br>
+[Recipes][1]
+
+[Kettlebell Workouts][2]
+
+[Projects][3]
 
 Useful links: </br>
+
+[Markdown syntax](https://www.markdownguide.org/cheat-sheet/)
 
 
 [1]: recipes.html
